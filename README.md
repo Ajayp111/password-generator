@@ -1,6 +1,6 @@
 
 
-C:\Users\ajayp\OneDrive\Desktop\password-generator\png1.png
+![png1](https://github.com/Ajayp111/password-generator/assets/126410871/43b729fe-7205-4bb8-b758-0ea5dbbfd110)
 
 
 
